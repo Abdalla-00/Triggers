@@ -23,6 +23,7 @@ BEGIN
 
 
     INSERT INTO siu VALUES(001,'Abdala');
+    INSERT INTO siu VALUES(002,'Cali');
 
     UPDATE siu set Name='samiir' where Name='Abdala';
 
